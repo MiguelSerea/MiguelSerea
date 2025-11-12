@@ -84,11 +84,13 @@
 
 <div align="center">
 
-[![Sistema PAR](https://github.com/MiguelSerea/Sistema-PAR-Futebol)
-[![Football Scraper](https://github.com/MiguelSerea/FBrefScrappe)
+[![Sistema PAR](https://img.shields.io/badge/Sistema%20PAR-Football%20Analytics-green?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiguelSerea/Sistema-PAR-Futebol)
 
-[![Crypto Scraper](https://github.com/MiguelSerea/crypto-scraper)
-[![Portfolio Website](https://github.com/TCC-Espaco-BK/.github)
+[![Football Scraper](https://img.shields.io/badge/Football%20Scraper-Data%20Mining-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/MiguelSerea/FBrefScrappe)
+
+[![Crypto Scraper](https://img.shields.io/badge/Crypto%20Scraper-Blockchain%20Data-orange?style=for-the-badge&logo=bitcoin&logoColor=white)](https://github.com/MiguelSerea/crypto-scraper)
+
+[![Portfolio Website](https://img.shields.io/badge/Portfolio%20Website-Web%20Development-purple?style=for-the-badge&logo=react&logoColor=white)](https://github.com/TCC-Espaco-BK/.github)
 
 </div>
 
